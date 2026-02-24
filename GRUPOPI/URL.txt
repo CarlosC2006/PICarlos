@@ -1,0 +1,7 @@
+# URL del Repositorio de GitHub
+
+(https://github.com/CarlosC2006/PICarlos.git)
+
+# Para el SSH
+
+git@github.com:CarlosC2006/PICarlos.git
